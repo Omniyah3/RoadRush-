@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>RoadRush | Stuck? We Rush. Fuel, Tyre & Battery Rescue in Cullinan, Rayton & Bronkhorstspruit</title>
+<meta name="description" content="RoadRush rescues you in 30 mins in Cullinan, Rayton & Bronkhorstspruit. Fuel from R349, Tyre Fix R299, Jump Start R299. WhatsApp 067 637 8588 - 24/7">
+<style>
+body{margin:0;font-family:Arial,sans-serif;background:#fff;color:#111}
+.header{background:#000;color:#FFD500;padding:18px 20px;display:flex;justify-content:space-between;align-items:center;position:sticky;top:0;z-index:10}
+.header b{font-size:28px;letter-spacing:1px}
+.header span{color:#FF2D2D;font-size:13px;font-weight:bold}
+.hero{background:#FFD500;padding:38px 20px;text-align:center}
+.hero h1{font-size:32px;margin:0;line-height:1.2}
+.hero p{font-size:16px;line-height:1.5}
+.btn{display:inline-block;background:#E60000;color:#fff;padding:16px 24px;border-radius:30px;font-weight:bold;text-decoration:none;font-size:18px;margin-top:10px}
+.section{padding:28px 20px;text-align:center}
+.big3{display:grid;grid-template-columns:1fr;gap:12px;max-width:520px;margin:15px auto}
+.big3 a{display:block;padding:18px;border-radius:14px;text-decoration:none;font-weight:bold;font-size:19px;color:#fff}
+.cards{display:grid;grid-template-columns:1fr;gap:12px;max-width:520px;margin:0 auto}
+.card{border:2px solid #000;border-radius:14px;padding:16px;text-align:left;position:relative}
+.card.pop{border-color:#E60000;background:#FFF8E1}
+.badge{background:#E60000;color:#fff;font-size:12px;padding:4px 8px;border-radius:20px;position:absolute;top:-11px;right:12px;font-weight:bold}
+.card h3{margin:0;font-size:18px}
+.card p{margin:6px 0;color:#444}
+.price{color:#E60000;font-size:28px;font-weight:bold}
+.cover{background:#000;color:#FFD500;padding:24px 18px;text-align:center}
+.pill{display:inline-block;background:#FFD500;color:#000;padding:7px 12px;border-radius:20px;margin:4px;font-weight:bold;font-size:14px}
+form{max-width:520px;margin:0 auto;text-align:left}
+input,select{width:100%;padding:14px;margin:8px 0;border:1px solid #ccc;border-radius:10px;font-size:16px;box-sizing:border-box}
+.footer{background:#000;color:#fff;padding:18px;text-align:center;font-size:13px;line-height:1.6}
+.whatsapp{background:#25D366;color:#fff;padding:14px 22px;border-radius:30px;text-decoration:none;display:inline-block;font-weight:bold;font-size:17px}
+.sticky{position:fixed;bottom:0;left:0;right:0;background:#000;padding:10px;text-align:center;z-index:20}
+.sticky a{background:#E60000;color:#fff;padding:13px 20px;border-radius:30px;text-decoration:none;font-weight:bold;display:inline-block}
+</style>
+</head>
+<body>
+
+<div class="header"><b>ROADRUSH</b><span>STUCK? WE RUSH.</span></div>
+
+<div class="hero">
+<h1>Stuck in Cullinan, Rayton or Bronkhorstspruit?<br>We Rush To You In 30 Mins.</h1>
+<p><b>FUEL • TYRE • BATTERY</b><br>One call fixes it all. 24/7.</p>
+<div class="big3">
+<a style="background:#E60000" href="https://wa.me/27676378588?text=Hi%20RoadRush%20I%20ran%20out%20of%20fuel%20I%20need%20fuel">⛽ I NEED FUEL - From R349</a>
+<a style="background:#000" href="https://wa.me/27676378588?text=Hi%20RoadRush%20My%20tyre%20is%20flat%20I%20need%20Tyre%20Fix">🛞 MY TYRE IS FLAT - R299</a>
+<a style="background:#FF8A00" href="https://wa.me/27676378588?text=Hi%20RoadRush%20My%20car%20won%27t%20start%20I%20need%20a%20jump%20start">🔋 CAR WON'T START - R299</a>
+</div>
+<p>WhatsApp: 067 637 8588 | Average ETA: 30 mins</p>
+</div>
+
+<div class="section">
+<h2>How RoadRush Works</h2>
+<p><b>1. Tell Us What's Wrong</b> - Fuel / Tyre / Battery<br><b>2. Send Your Pin</b> - WhatsApp live location<br><b>3. Pay & We Rush</b> - Card / EFT / SnapScan<br><b>4. We Fix You</b> - You drive off in 15 mins</p>
+</div>
+
+<div class="section" style="background:#f7f7f7">
+<h2>RoadRush Pricing</h2>
+<div class="cards">
+<div class="card pop"><span class="badge">MOST POPULAR</span><h3>⛽ Fuel Rush 5L - Day</h3><p>5L fuel + delivery up to 15km. Gets you 60-70km.</p><div class="price">R349</div></div>
+<div class="card"><h3>⛽ Fuel Rush 10L - Day</h3><p>10L fuel + delivery up to 15km.</p><div class="price">R499</div></div>
+<div class="card"><h3>⛽ Fuel Rush 5L - Night</h3><p>5L fuel + priority + delivery up to 15km.</p><div class="price">R449</div></div>
+<div class="card"><h3>🛞 Tyre Rush - TyreFix or Tyre Change</h3><p>TyreFix sealant for small puncture OR change to your spare.</p><div class="price">R299 Day / R399 Night</div></div>
+<div class="card"><h3>🔋 Battery Rush - Jump Start</h3><p>Jump start + battery test. If battery is dead, we tell you.</p><div class="price">R299 Day / R399 Night</div></div>
+<div class="card"><h3>🔥 Combo Rush</h3><p>Fuel + Tyre OR Fuel + Battery in one visit. Save R100.</p><div class="price">R549 Day / R649 Night</div></div>
+<div class="card"><h3>⭐ Membership - RoadRush Basic</h3><p>R149/month - Free delivery on 2 rushes, priority ETA.</p><div class="price">R149/mo</div></div>
+</div>
+<p>Extra distance beyond 15km: <b>+R12 per km</b>. Pay before dispatch.</p>
+</div>
+
+<div class="section">
+<h2>Need A Rush? Order Now</h2>
+<form action="https://wa.me/27676378588" method="get">
+<input type="text" placeholder="Your Name" required>
+<input type="tel" placeholder="Phone Number" required>
+<select required>
+<option value="">What is wrong?</option>
+<option>I ran out of fuel - Petrol</option>
+<option>I ran out of fuel - Diesel</option>
+<option>Flat tyre / Puncture</option>
+<option>Car won't start - Battery</option>
+<option>Fuel + Tyre / Battery - Combo</option>
+</select>
+<select required>
+<option value="">How much / Which service?</option>
+<option>Fuel 5L - R349</option>
+<option>Fuel 10L - R499</option>
+<option>Tyre Fix - R299</option>
+<option>Jump Start - R299</option>
+<option>Combo Rush - R549</option>
+</select>
+<input type="text" placeholder="Your Location / Street - Cullinan, Rayton or Bronkhorstspruit" required>
+<button class="btn" type="submit" style="border:none;width:100%">SEND RUSH ON WHATSAPP</button>
+</form>
+</div>
+
+<div class="cover">
+<h2>We Rush To Cullinan, Rayton & Bronkhorstspruit</h2>
+<span class="pill">Cullinan</span><span class="pill">Rayton</span><span class="pill">Bronkhorstspruit</span><span class="pill">Zithobeni</span><span class="pill">Ekangala</span><span class="pill">Refilwe</span><span class="pill">Balmoral</span>
+<p style="color:#fff">R513 | R104 | N4 | R25 - We come to you</p>
+</div>
+
+<div class="section">
+<h2>Need Help Now? 24/7</h2>
+<a class="whatsapp" href="https://wa.me/27676378588">WhatsApp Us: 067 637 8588</a>
+<p>Available 24/7 | Safe & Certified | Average ETA 30min</p>
+<p><b>Reviews:</b><br>"Saved me on R513 at night near Cullinan!" - Thabo<br>"Flat tyre in Rayton, fixed in 10 mins" - Naledi<br>"Car wouldn't start in Bronkhorstspruit, jump started me" - Sipho</p>
+</div>
+
+<div class="footer">© 2026 RoadRush (Pty) Ltd - Roadside Rescue - Cullinan, Rayton & Bronkhorstspruit, South Africa<br>WhatsApp: 067 637 8588 | Terms | Privacy | FAQs<br><br><br></div>
+
+<div class="sticky"><a href="https://wa.me/27676378588?text=Hi%20RoadRush%20I%20am%20stuck%20I%20need%20a%20rush">🚨 I'M STUCK - RUSH TO ME NOW</a></div>
+
+</body>
+</html>
